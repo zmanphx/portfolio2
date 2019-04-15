@@ -1,0 +1,115 @@
+body{
+
+    display: block;
+    box-sizing: border-box;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif ;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+
+  
+  h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+
+  footer {
+    padding-top: 150px;
+  }
+
+
+
+#MikeHageli{  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif ;
+font-size: 60px;
+
+}
+
+
+
+#topRow{background-image:url( "../images/cloudiness-clouds-cloudscape-414659.jpg");
+        height: 225px;
+        border-bottom-style: solid;
+        color:white;
+}
+
+#menu{background-image:url( "../images/cloudiness-clouds-cloudscape-414659.jpg");
+       height: 100%;
+} 
+#mikeContent{
+   height:100%;
+   overflow-y: scroll;
+   background-image:url( "../images/art-background-blank-951240.jpg" );
+   color:rgb(17, 16, 16);
+}
+
+
+
+hr{width: 100%;}
+
+.h4menu{font-size:20px;}
+
+#picDiv{margin-top: 30px;
+
+      
+}
+
+    img{ border-radius: 50%;}
+
+  
+
+
+
+#secondRow{height:100vh;}
+
+
+
+#Pic{ float:right;
+    margin: 0 20px 20px 0;
+    padding-left: 10px;
+
+}
+
+.dropdown-slide > .dropdown-menu {
+    opacity:.3;
+    display: block;
+    -webkit-transform-origin: top;
+    transform-origin: top;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-transform: scale(1, 0);
+    transition: all 0.2s linear;
+    -webkit-transition: all 0.2s linear;
+    background-color: transparent;
+  }
+  
+  .show.dropdown-slide > .dropdown-menu {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity:1;
+  }
+
+
+
+    
+           
+    
+
+     
+    
+    
+
+
+
+
+           
+                                 
+
+
+
+
+
+
+
+
+
